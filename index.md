@@ -23,29 +23,29 @@
   <h3>Education</h3>
   <p>
   <table border="2">
-    <thead>
+    
       <tr>
         <th>Institution</th>
         <th>Year</th>
       </tr>
 
-    </thead>
-    <tbody>
+    
+    
 
       <tr>
         <td>
-          <li><a href="College.html">College</a></li>
+          <a href="College.html">College</a>
         </td>
         <td>2016-2020</td>
       </tr>
 
       <tr>
         <td>
-          <li><a href="school.html">School</a>
+          <a href="school.html">School</a>
         </td>
         <td>2014-2016</td>
       </tr>
-    </tbody>
+    
   </table>
   <hr>
   <h3>Skills</h3>
